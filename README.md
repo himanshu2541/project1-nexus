@@ -6,5 +6,8 @@ Clone it in your device using command:
 ```git clone https://github.com/himanshu2541/project1-nexus.git```
 
 After cloning run 
+
+```npm install``` for installing all the packages
+
 ```npm run dev``` for running it on development mode.
 
