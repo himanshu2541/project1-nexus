@@ -1,8 +1,10 @@
-# React + Vite
+# Login and Sign Up Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run this project,
+Clone it in your device using command:
 
-Currently, two official plugins are available:
+```git clone https://github.com/himanshu2541/project1-nexus.git```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+After cloning run 
+```npm run dev``` for running it on development mode.
+
